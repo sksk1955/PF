@@ -7,7 +7,7 @@
   "scripts": {
     "start": "parcel",
     "build": "parcel build",
-    "build-gh": "parcel build --public-url 'https://sksk1955.github.io/{repo-name}'",
+    "build-gh": "parcel build --public-url 'https://sksk1955.github.io/PF}'",
     "predeploy": "npm run build-gh",
     "deploy": "gh-pages -d dist"
   },
