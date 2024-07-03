@@ -26,7 +26,7 @@ import "./styles.css";
  */
 const siteProps = {
   name: "Saumya Kala",
-  title: "Web Designer & Content Creator",
+  title: "Web Designer & Developer",
   email: "samarthkala1710@gmail.com",
   gitHub: "https://github.com/sksk1955",
   linkedIn: " www.linkedin.com/in/saumya-s-kala-b8027b2bb ",
