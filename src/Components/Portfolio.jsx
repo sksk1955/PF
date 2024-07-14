@@ -48,6 +48,12 @@ const projectList = [
       "Takes details and statistics from a json file about the posts by different users and the comments on the posts and displays it with live updates",
     url: " https://sksk1955.github.io/RAP/",
   },
+{
+    title: "MuseIT",
+    description:
+      "MUSEit is a sleek, free music player boasting a vast song library.Create custom playlists & enjoy a seamless playback.",
+    url: " https://sksk1955.github.io/RAP/",
+  }
 ];
 
 const Portfolio = () => {
